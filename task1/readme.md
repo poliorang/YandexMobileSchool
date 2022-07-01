@@ -1,4 +1,4 @@
-#A. Самая сложная буква
+# A. Самая сложная буква
 
 Василий решил улучшить скорость печати. Он заметил, что некоторые букы на клавиатуре от ищет дольше, чем дургие. Ему интересно, какую букву он искал дольше всего. Напишите программу, которая поможет Василию узнать это.  
 
@@ -27,27 +27,19 @@ N. N - количество почтовых адресов в логах.
 
 | Ввод | Вывод |
 |----------------|:---------:|
-| 2
-s.t.a.l.k.e.r.@yandex.ru
-stalker-winner@yandex.com | 1 |
+| 2 s.t.a.l.k.e.r.@yandex.ru stalker-winner@yandex.com | 1 |
 
 ### Пример 2
 
 | Ввод | Вывод |
 |----------------|:---------:|
-| 2
-user@yandex.ru
-user@ya.ru | 2 |
+| 2 user@yandex.ru user@ya.ru | 2 |
 
 ### Пример 3
 
 | Ввод | Вывод |
 |----------------|:---------:|
-| 4
-s.t.a.l.k.e.r.@yandex.ru
-stalker-winner@yandex.com
-user@yandex.ru
-user@mail.yandex.ru | 3 |
+| 4 s.t.a.l.k.e.r.@yandex.ru stalker-winner@yandex.com user@yandex.ru user@mail.yandex.ru | 3 |
 
 
 
