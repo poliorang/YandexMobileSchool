@@ -27,19 +27,27 @@ N. N - количество почтовых адресов в логах.
 
 | Ввод | Вывод |
 |----------------|:---------:|
-| 2 s.t.a.l.k.e.r.@yandex.ru stalker-winner@yandex.com | 1 |
+| 2 
+s.t.a.l.k.e.r.@yandex.ru 
+stalker-winner@yandex.com | 1 |
+|----------------|:---------:|
 
 ### Пример 2
 
 | Ввод | Вывод |
 |----------------|:---------:|
-| 2 user@yandex.ru user@ya.ru | 2 |
+| 2 
+user@yandex.ru 
+user@ya.ru | 2 |
+|----------------|:---------:|
 
 ### Пример 3
 
 | Ввод | Вывод |
 |----------------|:---------:|
-| 4 s.t.a.l.k.e.r.@yandex.ru stalker-winner@yandex.com user@yandex.ru user@mail.yandex.ru | 3 |
-
-
-
+| 4 
+s.t.a.l.k.e.r.@yandex.ru 
+stalker-winner@yandex.com 
+user@yandex.ru 
+user@mail.yandex.ru | 3 |
+|----------------|:---------:|
